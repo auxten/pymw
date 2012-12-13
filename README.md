@@ -11,12 +11,15 @@ write a single program that scales from multicore machines to
 global computing platforms.
 
 INSTALLATION
+-------------
 python setup.py install
 
 DOCUMENTATION
+---------------
 To try out the sample applications, run the example/*.py files.
-For example:
 
+EXAMPLE
+-------------
 user% python monte_pi.py -t 1000
 3.148 0.00640734641021
 Number of Workers: 4
