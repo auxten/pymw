@@ -21,9 +21,13 @@ To try out the sample applications, run the example/*.py files.
 EXAMPLE
 -------------
 user% python monte_pi.py -t 1000
+
 3.148 0.00640734641021
+
 Number of Workers: 4
+
 Calculation time: 0.470422029495
+
 Total time: 0.471640825272
 
 Use the -h option to see a list of options for each program.
